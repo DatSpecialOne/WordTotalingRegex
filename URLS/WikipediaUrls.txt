@@ -1,0 +1,15 @@
+https://en.wikipedia.org/wiki/Big_data
+https://en.wikipedia.org/wiki/Apache_Spark
+https://en.wikipedia.org/wiki/Apache_Hadoop
+https://en.wikipedia.org/wiki/MapReduce
+https://en.wikipedia.org/wiki/Python_(programming_language)
+https://en.wikipedia.org/wiki/Machine_learning
+https://en.wikipedia.org/wiki/Computer_cluster
+https://en.wikipedia.org/wiki/Databricks
+https://en.wikipedia.org/wiki/Data_lake
+https://en.wikipedia.org/wiki/Kaggle
+https://en.wikipedia.org/wiki/SQL
+https://en.wikipedia.org/wiki/Node
+https://en.wikipedia.org/wiki/Data_science
+https://en.wikipedia.org/wiki/Software_framework
+https://en.wikipedia.org/wiki/Parallel_computing
